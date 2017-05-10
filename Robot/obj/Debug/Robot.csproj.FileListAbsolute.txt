@@ -1,0 +1,5 @@
+C:\Users\Ryker\Documents\Repositories\Robot\Robot\obj\Debug\Robot.csprojResolveAssemblyReference.cache
+C:\Users\Ryker\Documents\Repositories\Robot\Robot\bin\Debug\Robot.dll
+C:\Users\Ryker\Documents\Repositories\Robot\Robot\bin\Debug\Robot.pdb
+C:\Users\Ryker\Documents\Repositories\Robot\Robot\obj\Debug\Robot.dll
+C:\Users\Ryker\Documents\Repositories\Robot\Robot\obj\Debug\Robot.pdb
